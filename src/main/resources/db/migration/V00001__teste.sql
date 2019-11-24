@@ -1,0 +1,1 @@
+create table teste (id integer not null default 0);
